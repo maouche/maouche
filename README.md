@@ -1,6 +1,6 @@
 # Maouche
 
-Full-Stack Developer for modern web applications built with PHP and React.
+Full-Stack Developer for modern web applications built with PHP, NodeJS and React.
 
 ## Expertise
 Databases: SQL (MySQL, Postgres) NoSQL (Redis, MongoDB) and Timeseries DB (Clickhouse).
