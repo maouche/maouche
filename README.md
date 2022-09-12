@@ -45,3 +45,5 @@ Available for freelancing and remote projects.
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maouche)](https://github.com/anuraghazra/github-readme-stats)
+
+![Maouche GitHub stats](https://github-readme-stats.vercel.app/api?username=maouche&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
