@@ -42,8 +42,10 @@ Available for freelancing and remote projects.
 ![ADOBE PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![UPWORK](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
-## Stats
+## Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maouche)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub stats
 
 ![Maouche GitHub stats](https://github-readme-stats.vercel.app/api?username=maouche&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
